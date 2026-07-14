@@ -1,4 +1,4 @@
-# projectsSctec2
+
 # 👋 Olá! Eu sou Rafael Rodrigues
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
